@@ -35,7 +35,7 @@ contract ERC20 {
     function allowance(address from, address to) 
     public view returns (uint256) {}
 
-// Functions
+// Implement these functions
 
     // Constructing initial variables
     constructor(string memory _name, string memory _symbol) {}
