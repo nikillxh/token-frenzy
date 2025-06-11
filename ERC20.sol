@@ -86,7 +86,7 @@ contract ERC20 {
         return transferHelp(msg.sender, to, amount);
     }
 
-    // Owner cross account transfer function
+    // Transfer tokens accross addresses
     function transferFrom(address from, address to, uint256 amount)
     public returns (bool) {
         if (msg.sender != from) {

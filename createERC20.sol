@@ -56,7 +56,7 @@ contract ERC20 {
     function transfer(address to, uint256 amount)
     public returns (bool) {}
 
-    // Owner cross account transfer function
+    // Transfer tokens accross addresses
     function transferFrom(address from, address to, uint256 amount)
     public returns (bool) {}
 }
