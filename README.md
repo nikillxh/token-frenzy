@@ -3,6 +3,8 @@
 - This repository contains some token implementations.
 - The solidity files with `create` prefix in name are the empty templates of the corresponding file names without the prefix (which are complete implementations).
 - Take reference from the complete implmentations and start coding.
+- Copy paste the code files into [Remix](https://remix.ethereum.org/) & get started 
+**OR**
 - `git clone https://github.com/nikillxh/token-frenzy` & get started.
 ## ERC-20 Token
 ### Files
