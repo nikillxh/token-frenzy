@@ -2,11 +2,12 @@
 ## Greetings!
 - This repository contains some token implementations.
 - The solidity files with `create` prefix in name are the empty templates of the corresponding file names without the prefix (which are complete implementations).
-- Take reference from the complete implmentations and start coding.
-- Copy paste the code files into [Remix](https://remix.ethereum.org/) & get started 
-**OR**
+- Check out the blogs given in each section, take reference from complete implmentations and start coding.
+- Copy paste the code files into [Remix](https://remix.ethereum.org/) & get started
+- **OR**
 - `git clone https://github.com/nikillxh/token-frenzy` & get started.
 ## ERC-20 Token
+**What is ERC-20?** Find more here: https://hackmd.io/@nikillxh/rkJEvTWmxg
 ### Files
 - **ERC-20: Token Standard:** https://eips.ethereum.org/EIPS/eip-20
 - `createERC20.sol` file contains the empty function definitions which need to be implemented.
@@ -28,6 +29,7 @@
     - `transferFrom(address from, address to, uint256 amount)`
 
 ## ERC-721 Token (Minimal)
+**What is ERC721?** Find more here: https://hackmd.io/@nikillxh/BkypIa-7ll
 ### Files
 - **ERC-721: Token Standard:** https://eips.ethereum.org/EIPS/eip-721
 - `createERC721min.sol` file contains the interface to be implemented.
